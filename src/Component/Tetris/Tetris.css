@@ -1,0 +1,8 @@
+.tetris-main{
+    margin: 0;
+    padding: 0;
+    width: 100wh;
+    height: 100vh;
+    background-image: url("../../../public/tetrisbg.png");
+
+}
